@@ -6,7 +6,7 @@ A simple To-Not-Do list app, using Django and React.
 - [x] C**R**U**D** Operations
 - [ ] Theme Switcher
 - [ ] Multiple To-Do List Boards
-- [ ] CI-CD + Dockerize
+- [ ] CI/CD Pipeline
 
 ## Getting Started
 
