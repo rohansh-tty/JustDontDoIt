@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 
+@layer components{
+    .trigger-button{
+        background-color: '#440000';
+        border-radius: theme('borderRadius.xl');
+        padding: theme('spacing.6');
+        box-shadow: theme('boxShadow.md');
+
+    }
+
+    .todo-card{
+        background-color: 'white';
+        padding: theme('spacing.72');
+        box-shadow: theme('boxShadow.md');
+    }
+} */

@@ -1,0 +1,11 @@
+### FRONTEND 
+node_modules/
+.vscode/
+.env
+package-lock.json
+
+
+### BACKEND
+django_env/
+*.sqlite3
+*.pyc
