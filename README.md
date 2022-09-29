@@ -1,4 +1,4 @@
-# ToNotDoList App
+# JustDontDoIt
 
 A simple To-Not-Do list app, using Django and React. 
 
