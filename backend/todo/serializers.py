@@ -7,7 +7,7 @@ class TodoSerializer(serializers.ModelSerializer):
     class Meta:
         '''Meta class to map serializer's fields with the model fields.'''
         model = Todo
-        fields = ( 'title', 'description', 'completed')
+        fields = ('task_id', 'title', 'description', 'completed')
         
 
 class BucketListSerializer(serializers.ModelSerializer):

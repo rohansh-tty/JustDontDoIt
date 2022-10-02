@@ -22,7 +22,6 @@ from todo.views import TodoView, BucketListView
 router1 = routers.DefaultRouter()
 router1.register(r'todo', TodoView, 'todo')
 router2 = routers.DefaultRouter()
-
 router2.register(r'bucketlist', BucketListView, 'bucketlist')
 
 urlpatterns = [
