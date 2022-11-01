@@ -1,7 +1,7 @@
 # Just Don't Do It
 
 
-![](frontend/assets/logo.png)
+
 
 A simple To-Not-Do list app, using Django and React. 
 
