@@ -1,4 +1,6 @@
-# JustDontDoIt
+# Just Don't Do It
+
+![](frontend/assets/logo.png)
 
 A simple To-Not-Do list app, using Django and React. 
 
@@ -10,6 +12,10 @@ A simple To-Not-Do list app, using Django and React.
 
 
 [![Django-React CI](https://github.com/rohansh-tty/JustDontDoIt/actions/workflows/django.yml/badge.svg)](https://github.com/rohansh-tty/JustDontDoIt/actions/workflows/django.yml)
+
+
+
+
 ## Features
 - [x] C**R**U**D** Operations
 - [ ] Theme Switcher
