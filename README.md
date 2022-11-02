@@ -40,6 +40,6 @@ $ python3 manage.py runserver
 
 ```bash
 $ cd frontend
-$ npm i
+$ npm install
 $ npm run dev
 ```
