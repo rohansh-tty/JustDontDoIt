@@ -28,18 +28,18 @@ A simple To-Not-Do list app, using Django and React.
 ### Django Server
 
 ```bash
-cd backend
-python3 -m virtualenv <ENV_NAME>
-source <ENV_NAME>/bin/activate
-python3 -m pip install -r requirements.txt
-python3 manage.py runserver
+$ cd backend
+$ python3 -m virtualenv <ENV_NAME>
+$ source <ENV_NAME>/bin/activate
+$ python3 -m pip install -r requirements.txt
+$ python3 manage.py runserver
 ```
 
 
 ### React App
 
 ```bash
-cd frontend
-npm i
-npm run dev
+$ cd frontend
+$ npm i
+$ npm run dev
 ```
